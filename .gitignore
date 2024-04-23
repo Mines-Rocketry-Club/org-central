@@ -2,4 +2,4 @@
 *.toc
 *.aux
 *.out
-
+*/.vscode/
