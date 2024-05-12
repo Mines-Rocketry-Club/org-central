@@ -1,0 +1,15 @@
+# length calculations
+IIF("casing_diameter"=24mm,"grain_number"*1.25+1.48,0)+
+IIF("casing_diameter"=29mm,"grain_number"*1.75+2.10,0)+
+IIF("casing_diameter"=38mm,"grain_number"*2.30457+2.284,0)+
+IIF("casing_diameter"=54mm,"grain_number"*3.31+2.28,0)
+## compiled version
+IIF("casing_diameter"=24mm,"grain_number"*1.25+1.48,0)+IIF("casing_diameter"=29mm,"grain_number"*1.75+2.10,0)+IIF("casing_diameter"=38mm,"grain_number"*2.30457+2.284,0)+IIF("casing_diameter"=54mm,"grain_number"*3.31+2.28,0)
+# top hole calculation, not acurate for the 24mm
+# measured 2024-05-11 by Tom Powell
+IIF("casing_diameter"=24mm,3mm,0)+
+IIF("casing_diameter"=29mm,20.5mm,0)+
+IIF("casing_diameter"=38mm,27mm,0)+
+IIF("casing_diameter"=54mm,38.3mm,0)+
+## compiled version
+IIF("casing_diameter"=24mm,3mm,0)+IIF("casing_diameter"=29mm,20.5mm,0)+IIF("casing_diameter"=38mm,27mm,0)+IIF("casing_diameter"=54mm,38.3mm,0)
