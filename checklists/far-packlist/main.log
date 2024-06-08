@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.2)  7 JUN 2024 18:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.2)  7 JUN 2024 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Tom Powell/Documents/GitHub/org-central/checklists/basic/main.tex"
-(c:/Users/Tom Powell/Documents/GitHub/org-central/checklists/basic/main.tex
+**"c:/Users/Tom Powell/Documents/GitHub/org-central/checklists/far-packlist/main.tex"
+(c:/Users/Tom Powell/Documents/GitHub/org-central/checklists/far-packlist/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\Tom Powell\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -105,12 +105,12 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
  (C:\Users\Tom Powell\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Tom Powell\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 16.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 27.
  (C:\Users\Tom Powell\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 16.
+(Font)              scaled to size 11.39996pt on input line 27.
  (C:\Users\Tom Powell\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count266
@@ -118,20 +118,20 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -140,13 +140,13 @@ LaTeX Font Info:    ... okay on input line 16.
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
-* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=505.89pt
-* \textheight=686.56499pt
+* modes: landscape 
+* h-part:(L,W,R)=(54.2025pt, 686.56499pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 505.89pt, 54.2025pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=686.56499pt
+* \textheight=505.89pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
 * \topmargin=-55.06749pt
@@ -168,17 +168,19 @@ LaTeX Font Info:    ... okay on input line 16.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 19.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+(Font)              scaled to size 16.41594pt on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
 (C:\Users\Tom Powell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
  (C:\Users\Tom Powell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/Tom Powell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Tom Powell/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2] [3] (main.aux)
+{C:/Users/Tom Powell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Tom Powell/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2
+
+] [3] [4] [5] [6] [7] [8] [9] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -186,16 +188,16 @@ L3 programming layer <2024-01-04>
  ) 
 Here is how much of TeX's memory you used:
  3563 strings out of 474485
- 57860 string characters out of 5741339
- 1936542 words of memory out of 5000000
+ 57870 string characters out of 5741339
+ 1949542 words of memory out of 5000000
  25839 multiletter control sequences out of 15000+600000
  569258 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,107p,354b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,11n,107p,361b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Tom Powell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Tom Powell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (3 pages, 25929 bytes).
+Output written on main.pdf (9 pages, 39123 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

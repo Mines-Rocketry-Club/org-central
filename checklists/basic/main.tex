@@ -5,20 +5,32 @@
 \usepackage{scrextend}
 \usepackage{fancyhdr}
 \usepackage{enumitem}
-\usepackage[letterpaper, margin=1in]{geometry}
+\usepackage[letterpaper, margin=.75in]{geometry}
 \usepackage[scaled]{helvet}
 \renewcommand\familydefault{\sfdefault}
 \titleformat{\section}{}{$\square$ \thesection}{2em}{}
 \fancyhf{}
-\fancyfoot[L]{V0.0.0}
+\fancyfoot[L]{V0.0.1}
 \fancyfoot[C]{\thepage}
 \fancyfoot[R]{MRC:F:CL:0}
 \begin{document}
 \pagestyle{fancy}
-{\centering \Large Mines Rocket Club General Personal Launch Day Checklist}\newline
+\begin{center}
+	{\center \Large Mines Rocket Club General  Launch Preparation Checklist}\newline
+\end{center}
 \begin{tabular}{lclc}
-	Flyer Name    & \framebox[50mm]{\rule{0pt}{10mm}} & Launch Date & \framebox[50mm]{\rule{0pt}{10mm}}\\
-	Overseer Name & \framebox[50mm]{\rule{0pt}{10mm}} & Rocket Name & \framebox[50mm]{\rule{0pt}{10mm}}\\
+	Flyer Name    & \framebox[45mm]{\rule{0pt}{7.5mm}} & Launch Date & \framebox[45mm]{\rule{0pt}{7.5mm}}\\
+	Overseer Name & \framebox[45mm]{\rule{0pt}{7.5mm}} & Rocket Name & \framebox[45mm]{\rule{0pt}{7.5mm}}\\
+\end{tabular}
+\section*{Notes}
+\framebox[7in]{\rule{0pt}{2in}}
+\section*{Avionics Configuration}
+\begin{tabular}{lclc}
+	Computer Model    & \framebox[45mm]{\rule{0pt}{7.5mm}} & Serial Number & \framebox[45mm]{\rule{0pt}{7.5mm}}\\
+	Drouge Delay    & \framebox[45mm]{\rule{0pt}{7.5mm}} & Drouge Charge Size & \framebox[45mm]{\rule{0pt}{7.5mm}}\\
+	Main Altitude & \framebox[45mm]{\rule{0pt}{7.5mm}} & Main Charge Size & \framebox[45mm]{\rule{0pt}{7.5mm}}\\
+	Callsign & \framebox[45mm]{\rule{0pt}{7.5mm}} & Channel / Frequency & \framebox[45mm]{\rule{0pt}{7.5mm}}\\
+	Orientation & \framebox[45mm]{\rule{0pt}{7.5mm}} & Baudrate & \framebox[45mm]{\rule{0pt}{7.5mm}}\\
 \end{tabular}
 \section{Pre-Departure}
 \begin{addmargin}[3em]{3em}
