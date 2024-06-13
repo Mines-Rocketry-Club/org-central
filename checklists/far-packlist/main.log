@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.2)  7 JUN 2024 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.2)  12 JUN 2024 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -180,7 +180,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {C:/Users/Tom Powell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Tom Powell/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2
 
-] [3] [4] [5] [6] [7] [8] [9] (main.aux)
+] [3] [4] [5] [6] [7] [8] [9] [10] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -195,9 +195,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  108i,11n,107p,361b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Tom Powell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Tom Powell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (9 pages, 39123 bytes).
+Output written on main.pdf (10 pages, 42677 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
